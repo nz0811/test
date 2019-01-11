@@ -9,4 +9,5 @@ boss stupid
 dev update
 dev 2 update
 conflict update
+no fast forward update
 
