@@ -8,4 +8,5 @@ aaa
 boss stupid
 dev update
 dev 2 update
-master conflict update
+conflict update
+
