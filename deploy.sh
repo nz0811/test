@@ -1,5 +1,5 @@
 echo "开始打包"
-git checkout RELEASE
+git checkout master
 git pull
 
 port=8088
