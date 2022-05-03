@@ -1,2 +1,6 @@
 server:
   port: 8088
+
+logging:
+  #  path: /home/work/logs/applogs/settlement
+  path: ./logs
