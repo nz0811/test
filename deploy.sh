@@ -21,5 +21,5 @@ docker build -t test:1.0 .
 echo test镜像构建完成
 
 echo 开始运行容器test
-docker run -d -p ${port}:${port} --net=host --name test test:1.0
+docker run -d -p ${port}:${port} --name test test:1.0
 echo test容器运行成功
