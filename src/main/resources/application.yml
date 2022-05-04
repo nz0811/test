@@ -4,3 +4,7 @@ server:
 logging:
   #  path: /home/work/logs/applogs/settlement
   path: ./logs
+
+spring:
+  application:
+    name: mytest

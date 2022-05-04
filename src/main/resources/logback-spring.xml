@@ -39,13 +39,13 @@
         <level value="DEBUG"/>
     </logger>
     <logger name="org.springframework">
-        <level value="DEBUG"/>
+        <level value="INFO"/>
     </logger>
     <logger name="com.alibaba.druid">
-        <level value="DEBUG"/>
+        <level value="INFO"/>
     </logger>
     <logger name="com.xiaomi.infra.galaxy">
-        <level value="DEBUG"/>
+        <level value="INFO"/>
     </logger>
 
 </configuration>
