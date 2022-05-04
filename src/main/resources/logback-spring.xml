@@ -38,9 +38,9 @@
     <logger name="com.xiaomi.sales.settlement">
         <level value="DEBUG"/>
     </logger>
-    <logger name="org.springframework">
+<!--    <logger name="org.springframework">
         <level value="INFO"/>
-    </logger>
+    </logger>-->
     <logger name="com.alibaba.druid">
         <level value="INFO"/>
     </logger>
