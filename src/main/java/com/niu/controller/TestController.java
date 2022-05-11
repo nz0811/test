@@ -12,6 +12,11 @@ public class TestController {
     @GetMapping("/test")
     public String test(String a) {
         log.info(" test controller {}", a);
-        return "test1245645643";
+        return a;
+    }
+
+
+    public static void main(String[] args) {
+
     }
 }
